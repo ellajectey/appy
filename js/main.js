@@ -53,7 +53,8 @@ isElligible()
     //     }else
     //     {
     //         return "GO AWAY";
-    //     }
-    
+    // console.log(isElligible());
     // displaying code on webpage
-document.body.innerHTML = isElligible();
+// document.body.innerHTML = isElligible();
+
+console.log("we are usimg GIT!");
